@@ -1,2 +1,2 @@
 # CatchTheKennyGame
-gesture recognizer, timer, alert oluşturma kullandım
+gesture recognizer,UserDefaults(stored), timer, alert oluşturma kullandım
